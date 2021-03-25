@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace TiendaServicios.Api.Autor.Modelo
+{
+    public class AutorLibro
+    {
+        public int AutorLibroId {get; set; }
+
+    }
+}
