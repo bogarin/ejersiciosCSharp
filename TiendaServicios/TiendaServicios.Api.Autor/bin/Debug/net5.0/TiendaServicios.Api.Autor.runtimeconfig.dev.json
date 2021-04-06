@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\paradigma\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\paradigma\\.nuget\\packages"
-    ]
-  }
-}
